@@ -53,6 +53,8 @@ opacity:.9;
 .content {
   width:95%;
   margin:auto;
+  margin-top:15px;
+  margin-bottom: 15px;
   display:flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -62,11 +64,18 @@ opacity:.9;
 .profile-image-container{
   max-width:20%;
   margin-right:15px;
+  margin-bottom:5px;
+
 }
 
 .profile-image{
   width: 100%;
   border-radius: 15px;
+}
+
+.about-me-content{
+  width:75%;
+  margin:auto;
 }
 
 /* Projects */
