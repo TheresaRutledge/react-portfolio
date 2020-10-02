@@ -3,7 +3,7 @@ import React from 'react';
 function Header(props) {
   const navTabs = ['About', 'Projects', 'Contact', 'Resume'];
   return (
-    <div class='header'>
+    <div className='header'>
       <h1>Theresa Rutledge</h1>
       <ul className="list">
         {navTabs.map(tab => (
