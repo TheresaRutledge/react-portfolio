@@ -1,20 +1,26 @@
 import React from "react";
 
-const Resume = () => (
+const Resume = () => {
+const proficiencies =['HTML','CSS','JavaScript','JQuery','React','Bootstrap','Materialize','APIs','Node','Express','MySQL (Sequelize)',"MongoDB (Mongoose)"]
+    return (
     <div className='content-container'>
     <section className='section-content'>
     <div className='content'>
-        <h1>Resume</h1>
-        <p>
-            Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
-            ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
-            quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-            imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed rhoncus mollis
-            diam, sit amet facilisis lectus blandit at.
-</p>
+        {/* <h2 className='content-title'>Resume</h2> */}
+        <div className='proficiencies'>
+            <h4>Proficiencies:</h4>
+            <ul>
+              {proficiencies.map((item) => (
+                  <li>{item}</li>
+              ))}
+            </ul>
+        </div>
+
+        <a href={require('../../assets/Rutledge_Theresa.pdf')} download>Download Theresa's Resume</a>
 </div>
     </section>
 </div>
-);
+    )
+};
 
 export default Resume;
