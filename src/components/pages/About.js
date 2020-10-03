@@ -8,7 +8,7 @@ const About = () => (
                 <h2>About Me</h2>
                 <div className='row'>
                 <div className='profile-image-container col'>
-                    <img className='profile-image img-fluid' src={require('../../assets/profile-pic.jpeg')} alt='Theresa headshot'></img>
+                    <img className='profile-image' src={require('../../assets/profile-pic.jpeg')} alt='Theresa headshot'></img>
                </div>
                 <p className='about-me-content col'>
                 Hi! I'm Theresa and I'm currently learning skills to become a web developer! My background so far has been as a sales executive selling software. All my time working with technology

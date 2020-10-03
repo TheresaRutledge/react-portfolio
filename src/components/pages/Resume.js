@@ -6,7 +6,6 @@ const proficiencies =['HTML','CSS','JavaScript','JQuery','React','Bootstrap','Ma
     <div className='content-container'>
     <section className='section-content'>
     <div className='content'>
-        {/* <h2 className='content-title'>Resume</h2> */}
         <div className='proficiencies'>
             <h4>Proficiencies:</h4>
             <ul>
