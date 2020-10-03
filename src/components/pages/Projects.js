@@ -1,4 +1,5 @@
 import React from "react";
+import {FaGithub} from 'react-icons/fa'
 
 
 
@@ -62,9 +63,7 @@ const Projects = () => {
                                 <img className='project' src={images[project.image]} alt={project.name}></img>
                                 <div className='project-links'>
                                     <a href={project.url} className='project-link project-name' target='_blank' >{project.name}</a>
-                                    <a href={project.githubUrl} className='project-link' target='_blank'>
-                                        <img src={require('../../assets/GitHub-Mark-32px.png')} alt='gitHubLogo'></img>
-                                    </a>
+                                    <a href={project.githubUrl} className='project-link' target='_blank'><FaGithub></FaGithub></a>
                                 </div>
                             </div>
                         ))}

@@ -14,10 +14,10 @@ const Contact = () => {
     const [errorMessage, setErrorMessage] = useState('');
 
     function handleChange(e) {
-        if (e.target.name === 'email') {
+        if (e.target.name === 'Email') {
             const isValid = validateEmail(e.target.value);
             if (!isValid) {
-                setErrorMessage('your email is invalid');
+                setErrorMessage('Your email is invalid');
             } else {
                 setErrorMessage('');
             }
@@ -48,15 +48,15 @@ const Contact = () => {
                     <form id='contact-form' onSubmit={handleSubmit}>
                         <div className='form-group'>
                             <label htmlFor="name">Name:</label>
-                            <input className='form-control' type="text" name="name" onBlur={handleChange} defaultValue={name} />
+                            <input className='form-control' type="text" name="Name" onBlur={handleChange} defaultValue={name} />
                         </div>
                         <div className='form-group'>
                             <label htmlFor="email">Email address:</label>
-                            <input className='form-control' type="email" name="email" defaultValue={email} onBlur={handleChange} />
+                            <input className='form-control' type="email" name="Email" defaultValue={email} onBlur={handleChange} />
                         </div>
                         <div className='form-group'>
                             <label htmlFor="message">Message:</label>
-                            <textarea className='form-control' name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+                            <textarea className='form-control' name="Message" rows="5" defaultValue={message} onBlur={handleChange} />
                         </div>
                         {errorMessage && (
                             <div>

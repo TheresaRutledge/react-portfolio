@@ -9,13 +9,21 @@ body{
   background-image:url('./assets/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Archivo Narrow';
 }
 
+h1{
+  font-family:'Julius Sans One'
+}
 /* Header */
 .header{
 width:100%;
   opacity:.8;
   min-height:60px
+}
+.header-title{
+  margin-top:20px;
+  margin-left:20px;
 }
 a:hover{
   text-decoration: none;
@@ -40,7 +48,6 @@ a:hover{
 /* Footer */
 .footer{
   position:fixed;
-  /* margin-top:-60px; */
   bottom:0;
   height:60px;
   width:100%;
@@ -74,7 +81,6 @@ a:hover{
 
 /* Content */
 .content-container{
-  flex:1;
   display: flex;
   justify-content: center;
   min-height:100%;
@@ -148,8 +154,9 @@ margin-bottom: 10px;
 .project-link{
 text-decoration: none;
 color:black;
-font-weight: bold;
 display:block;
+font-size: 2rem;
+font-family: 'Julius Sans One';
 }
 
 .project-name{
@@ -178,8 +185,33 @@ a{
 .contact-header{
   width:100%;
 }
+.error-text{
+  color:maroon;
+  font-weight: 500;
+}
 
 /* Resume */
 .proficiencies{
 width:90%;
+}
+
+/* Media Queries */
+@media screen and (min-height:740px){
+  body{
+    background-image: none;
+  background-color: #c77da6
+  }
+}
+
+@media screen and (max-width:740px){
+.profile-image-container{
+  display:none;
+}
+}
+
+@media(hover:none){
+.project-links{
+  display:block;
+}
+
 }
