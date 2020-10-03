@@ -13,9 +13,6 @@ function Header(props) {
               href={'#' + tab.toLowerCase()}
               onClick={() => props.setCurrentPage(tab)}
               className='list-item'
-              // {
-              //   props.currentPage === tab ? 'list-item active' : 'nav-link'
-              // }
             >
               {tab}
             </a>
