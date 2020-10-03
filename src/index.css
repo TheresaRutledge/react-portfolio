@@ -16,7 +16,10 @@ width:100%;
   opacity:.8;
   min-height:60px
 }
-
+a:hover{
+  text-decoration: none;
+  color:grey;
+}
 .list{
   display:flex;
   justify-content: flex-end;
@@ -26,6 +29,11 @@ width:100%;
 }
 .list-item{
   margin:1rem;
+  color:black;
+}
+.navActive{
+  background-color: white;
+  border-radius: 5px;
 }
 
 /* Footer */
