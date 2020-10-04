@@ -13,8 +13,8 @@
  ISC
 
 ## Screenshot
-
+![](screenshot.png)
 
 ## Website
-
+https://theresarutledge.github.io/react-portfolio
 
