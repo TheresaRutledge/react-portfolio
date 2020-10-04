@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/TheresaRutledge/react-portfolio/static/css/main.c7588d3c.chunk.css",
-    "main.js": "/TheresaRutledge/react-portfolio/static/js/main.391ab45e.chunk.js",
-    "main.js.map": "/TheresaRutledge/react-portfolio/static/js/main.391ab45e.chunk.js.map",
-    "runtime-main.js": "/TheresaRutledge/react-portfolio/static/js/runtime-main.c84c6a8a.js",
-    "runtime-main.js.map": "/TheresaRutledge/react-portfolio/static/js/runtime-main.c84c6a8a.js.map",
-    "static/js/2.e69461fd.chunk.js": "/TheresaRutledge/react-portfolio/static/js/2.e69461fd.chunk.js",
-    "static/js/2.e69461fd.chunk.js.map": "/TheresaRutledge/react-portfolio/static/js/2.e69461fd.chunk.js.map",
-    "index.html": "/TheresaRutledge/react-portfolio/index.html",
-    "precache-manifest.4fdb1688a6423b1de970f58ddbb87610.js": "/TheresaRutledge/react-portfolio/precache-manifest.4fdb1688a6423b1de970f58ddbb87610.js",
-    "service-worker.js": "/TheresaRutledge/react-portfolio/service-worker.js",
-    "static/css/main.c7588d3c.chunk.css.map": "/TheresaRutledge/react-portfolio/static/css/main.c7588d3c.chunk.css.map",
-    "static/js/2.e69461fd.chunk.js.LICENSE.txt": "/TheresaRutledge/react-portfolio/static/js/2.e69461fd.chunk.js.LICENSE.txt",
-    "static/media/Rutledge_Theresa.pdf": "/TheresaRutledge/react-portfolio/static/media/Rutledge_Theresa.d37f2588.pdf",
-    "static/media/index.css": "/TheresaRutledge/react-portfolio/static/media/background.af2f1883.jpg",
-    "static/media/profile-pic.jpeg": "/TheresaRutledge/react-portfolio/static/media/profile-pic.56dd158f.jpeg",
-    "static/media/run-buddy.jpg": "/TheresaRutledge/react-portfolio/static/media/run-buddy.3adfa0c7.jpg",
-    "static/media/secret-santa.jpg": "/TheresaRutledge/react-portfolio/static/media/secret-santa.0da493aa.jpg",
-    "static/media/wine-dine.jpg": "/TheresaRutledge/react-portfolio/static/media/wine-dine.c6b78896.jpg"
+    "main.css": "/react-portfolio/static/css/main.4dd52d26.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.fd35e904.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.fd35e904.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.e69461fd.chunk.js": "/react-portfolio/static/js/2.e69461fd.chunk.js",
+    "static/js/2.e69461fd.chunk.js.map": "/react-portfolio/static/js/2.e69461fd.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.460ff95d875441bf601bf234347461c5.js": "/react-portfolio/precache-manifest.460ff95d875441bf601bf234347461c5.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.4dd52d26.chunk.css.map": "/react-portfolio/static/css/main.4dd52d26.chunk.css.map",
+    "static/js/2.e69461fd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e69461fd.chunk.js.LICENSE.txt",
+    "static/media/Rutledge_Theresa.pdf": "/react-portfolio/static/media/Rutledge_Theresa.d37f2588.pdf",
+    "static/media/index.css": "/react-portfolio/static/media/background.af2f1883.jpg",
+    "static/media/profile-pic.jpeg": "/react-portfolio/static/media/profile-pic.56dd158f.jpeg",
+    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.3adfa0c7.jpg",
+    "static/media/secret-santa.jpg": "/react-portfolio/static/media/secret-santa.0da493aa.jpg",
+    "static/media/wine-dine.jpg": "/react-portfolio/static/media/wine-dine.c6b78896.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c84c6a8a.js",
+    "static/js/runtime-main.213b1880.js",
     "static/js/2.e69461fd.chunk.js",
-    "static/css/main.c7588d3c.chunk.css",
-    "static/js/main.391ab45e.chunk.js"
+    "static/css/main.4dd52d26.chunk.css",
+    "static/js/main.fd35e904.chunk.js"
   ]
 }
