@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.4dd52d26.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.fd35e904.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.fd35e904.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.3cf84282.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.aa0fb618.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.aa0fb618.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/js/2.e69461fd.chunk.js": "/react-portfolio/static/js/2.e69461fd.chunk.js",
     "static/js/2.e69461fd.chunk.js.map": "/react-portfolio/static/js/2.e69461fd.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.460ff95d875441bf601bf234347461c5.js": "/react-portfolio/precache-manifest.460ff95d875441bf601bf234347461c5.js",
+    "precache-manifest.ef28fcf86c4c3ba89d2bbb96d827a102.js": "/react-portfolio/precache-manifest.ef28fcf86c4c3ba89d2bbb96d827a102.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.4dd52d26.chunk.css.map": "/react-portfolio/static/css/main.4dd52d26.chunk.css.map",
+    "static/css/main.3cf84282.chunk.css.map": "/react-portfolio/static/css/main.3cf84282.chunk.css.map",
     "static/js/2.e69461fd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e69461fd.chunk.js.LICENSE.txt",
     "static/media/Rutledge_Theresa.pdf": "/react-portfolio/static/media/Rutledge_Theresa.d37f2588.pdf",
     "static/media/index.css": "/react-portfolio/static/media/background.af2f1883.jpg",
+    "static/media/food-fridge.jpg": "/react-portfolio/static/media/food-fridge.71d92f95.jpg",
     "static/media/profile-pic.jpeg": "/react-portfolio/static/media/profile-pic.56dd158f.jpeg",
     "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.3adfa0c7.jpg",
     "static/media/secret-santa.jpg": "/react-portfolio/static/media/secret-santa.0da493aa.jpg",
@@ -22,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/js/2.e69461fd.chunk.js",
-    "static/css/main.4dd52d26.chunk.css",
-    "static/js/main.fd35e904.chunk.js"
+    "static/css/main.3cf84282.chunk.css",
+    "static/js/main.aa0fb618.chunk.js"
   ]
 }

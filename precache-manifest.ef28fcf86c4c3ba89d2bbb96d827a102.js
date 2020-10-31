@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "998bf3a430413895b68cf77805da776a",
+    "revision": "e32eced4390afe7cb7f23381ef71ee57",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "d0b2d9e235d25a459760",
-    "url": "/react-portfolio/static/css/main.4dd52d26.chunk.css"
+    "revision": "8d7aa66f1c6305b8f193",
+    "url": "/react-portfolio/static/css/main.3cf84282.chunk.css"
   },
   {
     "revision": "e3298e40531eaea9f879",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.e69461fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0b2d9e235d25a459760",
-    "url": "/react-portfolio/static/js/main.fd35e904.chunk.js"
+    "revision": "8d7aa66f1c6305b8f193",
+    "url": "/react-portfolio/static/js/main.aa0fb618.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "af2f188380fe2e1fb947237a4a7cdd95",
     "url": "/react-portfolio/static/media/background.af2f1883.jpg"
+  },
+  {
+    "revision": "71d92f952e56217713a4220335c0aa2f",
+    "url": "/react-portfolio/static/media/food-fridge.71d92f95.jpg"
   },
   {
     "revision": "56dd158fdc1e7df9c91707298e47ce23",
