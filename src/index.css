@@ -146,7 +146,7 @@ margin-bottom: 10px;
   transform:translate(-50%,-50%);
   color:black;
   width:90%;
-  display:none;
+  /* display:none; */
   background-color: white;
   border-radius: 15px;
 
@@ -164,11 +164,11 @@ font-family: 'Julius Sans One';
   font-size: 1.3rem;
 }
 
-
+/* 
 .project-container:hover .project-links{
   display:block;
   color:black
-}
+} */
 
 a{
   text-decoration: none;

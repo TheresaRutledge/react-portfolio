@@ -33,10 +33,10 @@ const Projects = () => {
             githubUrl:'https://github.com/TheresaRutledge/run-buddy'
         },
         {
-            name:'Daily Planner',
-            image:'daily-planner.jpeg',
-            url:'https://theresarutledge.github.io/daily-planner/',
-            githubUrl:'https://github.com/TheresaRutledge/daily-planner'
+            name:"What's in your fridge",
+            image:'food-fridge.jpg',
+            url:'https://whats-in-your-fridge-project3.herokuapp.com/',
+            githubUrl:'https://github.com/TheresaRutledge/whats-in-your-fridge'
         },
         {
             name:'Weather',
