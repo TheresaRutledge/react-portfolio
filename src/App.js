@@ -11,7 +11,7 @@ const [currentPage, setCurrentPage] = useState('About') ;
 
 const renderPage = (page) => {
   switch (page) {
-    case 'Resume':
+    case 'Skills/Experience':
       return <Resume />;
     case 'Projects':
       return <Projects />;

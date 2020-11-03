@@ -15,7 +15,7 @@ const Footer = () => {
                 </a>
             <a href='https:github.com/TheresaRutledge' target='_blank'><FaGithub></FaGithub></a>
             <a href='https:www.linkedin.com/in/theresarutledge/' target='_blank'><FaLinkedin></FaLinkedin></a>
-            <a href='https://stackoverflow.com/users/13341507/theresa-rutledge' target='_blank'><FaStackOverflow></FaStackOverflow></a>
+            {/* <a href='https://stackoverflow.com/users/13341507/theresa-rutledge' target='_blank'><FaStackOverflow></FaStackOverflow></a> */}
         </footer>
 
     )

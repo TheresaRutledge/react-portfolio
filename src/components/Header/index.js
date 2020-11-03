@@ -1,7 +1,7 @@
 import React, {useEffect} from 'react';
 
 function Header(props) {
-  const navTabs = ['About', 'Projects', 'Contact', 'Resume'];
+  const navTabs = ['About', 'Projects', 'Skills/Experience',"Contact"];
 
   useEffect(() => {
     document.title = `Theresa Rutledge - ${props.currentPage}`;

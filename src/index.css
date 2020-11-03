@@ -7,9 +7,10 @@
 
 body{
   background-image:url('./assets/background.jpg');
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: cover;
   font-family: 'Archivo Narrow';
+  font-size: larger;
 }
 
 h1{
@@ -95,7 +96,7 @@ opacity:.9;
 margin-bottom: 10px;
 }
 .content {
-  width:95%;
+  width:80%;
   margin:auto;
   margin-top:15px;
   margin-bottom: 15px;
@@ -195,13 +196,17 @@ a{
 width:90%;
 }
 
+.skills-list{
+  width:80%
+}
+
 /* Media Queries */
-@media screen and (min-height:740px){
+/* @media screen and (min-height:740px){
   body{
     background-image: none;
   background-color: #c77da6
   }
-}
+} */
 
 @media screen and (max-width:740px){
 .profile-image-container{

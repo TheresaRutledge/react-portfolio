@@ -26,24 +26,24 @@ const Projects = () => {
             url:'https://theresarutledge.github.io/wine-and-dine/',
             githubUrl:'https://github.com/TheresaRutledge/wine-and-dine'
         },
-        {
-            name:'Run Buddy',
-            image:'run-buddy.jpg',
-            url:'https://theresarutledge.github.io/run-buddy/',
-            githubUrl:'https://github.com/TheresaRutledge/run-buddy'
-        },
+        // {
+        //     name:'Run Buddy',
+        //     image:'run-buddy.jpg',
+        //     url:'https://theresarutledge.github.io/run-buddy/',
+        //     githubUrl:'https://github.com/TheresaRutledge/run-buddy'
+        // },
         {
             name:"What's in your fridge",
             image:'food-fridge.jpg',
             url:'https://whats-in-your-fridge-project3.herokuapp.com/',
             githubUrl:'https://github.com/TheresaRutledge/whats-in-your-fridge'
         },
-        {
-            name:'Weather',
-            image:'weather.jpeg',
-            url:'https://theresarutledge.github.io/weather-dashboard/',
-            githubUrl:'https://github.com/TheresaRutledge/weather-dashboard'
-        },
+        // {
+        //     name:'Weather',
+        //     image:'weather.jpeg',
+        //     url:'https://theresarutledge.github.io/weather-dashboard/',
+        //     githubUrl:'https://github.com/TheresaRutledge/weather-dashboard'
+        // },
         {
             name:'Secret Santa',
             image:'secret-santa.jpg',

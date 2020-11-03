@@ -1,4 +1,5 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
+import {FaPhoneAlt,FaGithub,FaLinkedin,FaEnvelopeOpen,FaStackOverflow} from 'react-icons/fa';
 
 function validateEmail(email) {
     var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
@@ -37,6 +38,7 @@ const Contact = () => {
     function handleSubmit(e) {
         e.preventDefault();
         console.log(formState);
+
     }
 
     return (
@@ -44,8 +46,15 @@ const Contact = () => {
             <section className='section-content'>
                 <div className='content'>
                     <h2 className='contact-header'>Contact Me</h2>
-                  
-                    <form id='contact-form' onSubmit={handleSubmit}>
+                    <div className="content contact-info">
+                        <a href="tel:925-785-6151">925.785.6151</a>
+                        <a href='mailto:t.roserutledge@gmail.com'>t.roserutledge@gmail.com</a>
+                        <a href='https:github.com/TheresaRutledge' target='_blank'><FaGithub></FaGithub></a>
+                    <a href='https:www.linkedin.com/in/theresarutledge/' target='_blank'><FaLinkedin></FaLinkedin></a>
+                    </div>
+                   
+
+                    {/* <form id='contact-form' onSubmit={handleSubmit}>
                         <div className='form-group'>
                             <label htmlFor="name">Name:</label>
                             <input className='form-control' type="text" name="Name" onBlur={handleChange} defaultValue={name} />
@@ -64,8 +73,8 @@ const Contact = () => {
                             </div>
                         )}
                         <button className='btn btn-secondary' type='submit' data-testid='buttontag'>Submit</button>
-                    </form>
-   
+                    </form> */}
+
                 </div>
             </section>
         </div>

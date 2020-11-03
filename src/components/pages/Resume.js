@@ -8,9 +8,9 @@ const proficiencies =['HTML','CSS','JavaScript','JQuery','React','Bootstrap','Ma
     <div className='content'>
         <div className='proficiencies'>
             <h4>Proficiencies:</h4>
-            <ul>
+            <ul className="content skills-list">
               {proficiencies.map((item) => (
-                  <li>{item}</li>
+                  <li className="m-3">{item}</li>
               ))}
             </ul>
         </div>
