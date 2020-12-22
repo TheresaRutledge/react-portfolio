@@ -49,8 +49,8 @@ const Contact = () => {
                     <div className="content contact-info">
                         <a href="tel:925-785-6151">925.785.6151</a>
                         <a href='mailto:t.roserutledge@gmail.com'>t.roserutledge@gmail.com</a>
-                        <a href='https:github.com/TheresaRutledge' target='_blank'><FaGithub></FaGithub></a>
-                    <a href='https:www.linkedin.com/in/theresarutledge/' target='_blank'><FaLinkedin></FaLinkedin></a>
+                        <a href='https://github.com/TheresaRutledge' target='_blank'><FaGithub></FaGithub></a>
+            <a href='https://www.linkedin.com/in/theresarutledge/' target='_blank'><FaLinkedin></FaLinkedin></a>
                     </div>
                    
 
